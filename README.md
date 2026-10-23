@@ -29,12 +29,12 @@ To uncover key trends in Uber trips, driver performance, revenue, and customer s
 
 
 ## KEY INSIGHTS 
- ⁃ Port Harcourt was the busiest and highest-revenue pickup location, recording 257 pickups and generating N2.8M.
- ⁃ Garkii was the leading drop-off location, recording 100 drop-offs and generating over N1M in revenue.
- ⁃ Monthly trips were lowest in April (26 trips) before rising to a peak of 56 trips in August.
- ⁃ Revenue followed a similar pattern, reaching its lowest point in April at about #280K and peaking in August at over N581K.
- ⁃ Transfer and card payments accounted for the majority of driver and passenger transactions.
- ⁃ 3-star ratings were the most frequently given, making it the most common passenger rating. 
+- Port Harcourt was the busiest and highest-revenue pickup location, recording 257 pickups and generating N2.8M.
+- Garkii was the leading drop-off location, recording 100 drop-offs and generating over N1M in revenue.
+- Monthly trips were lowest in April (26 trips) before rising to a peak of 56 trips in August.
+- Revenue followed a similar pattern, reaching its lowest point in April at about #280K and peaking in August at over N581K.
+- Transfer and card payments accounted for the majority of driver and passenger transactions.
+- 3-star ratings were the most frequently given, making it the most common passenger rating. 
 
 ## ANALYTICAL QUESTION 
 - When is trip demand highest and lowest?
