@@ -1,4 +1,4 @@
-# Uber-trip-performance-and-passenger-experience-analysis
+# Uber-Trip-Performance-And-Passenger-Experience-Analysis
 
 ## PROJECT OBJECTIVES
 To uncover key trends in Uber trips, driver performance, revenue, and customer satisfaction to identify opportunities for business growth and operational improvement.
