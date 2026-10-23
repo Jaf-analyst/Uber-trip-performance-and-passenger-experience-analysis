@@ -4,20 +4,20 @@
 To uncover key trends in Uber trips, driver performance, revenue, and customer satisfaction to identify opportunities for business growth and operational improvement.
 
 ## PROJECT WORKFLOW 
- ⁃ Data Cleaning & Transformation : Prepared and transformed the dataset to ensure data quality and consistency.
- ⁃ KPI Development : Defined key performance indicators to evaluate trips, revenue, driver performance and passenger satisfaction.
- ⁃ DAX Measures & Calculations : Developed DAX measures to quantify key metrics and enable deeper analysis.
- ⁃ Performance & Trend Analysis : Analyzed trip volume, revenue, driver performance, passenger experience, distance covered and trip duration.
- ⁃ Dashboard Development & Visualization : Built an interactive Power BI dashboard to communicate findings, uncover trends and highlight actionable business insights.
+- Data Cleaning & Transformation : Prepared and transformed the dataset to ensure data quality and consistency.
+- KPI Development : Defined key performance indicators to evaluate trips, revenue, driver performance and passenger satisfaction.
+- DAX Measures & Calculations : Developed DAX measures to quantify key metrics and enable deeper analysis.
+- Performance & Trend Analysis : Analyzed trip volume, revenue, driver performance, passenger experience, distance covered and trip duration.
+- Dashboard Development & Visualization : Built an interactive Power BI dashboard to communicate findings, uncover trends and highlight actionable business insights.
 
 ## KPIs
- ⁃  Number of Trips 
- ⁃  Number of Drivers
- ⁃  Passengers 
- ⁃  Revenue 
- ⁃  Distance covered 
- ⁃ Average distance covered 
- ⁃ Average distance covered in Minutes 
+- Number of Trips
+- Number of Drivers
+- Passengers
+- Revenue
+- Distance covered
+- Average distance covered
+- Average distance covered in Minutes 
 
 ## DASHBOARD
 <img width="1103" height="617" alt="UB1" src="https://github.com/user-attachments/assets/029b6319-4f19-43e9-a64e-d717d58f5b13" />
